@@ -1,0 +1,27 @@
+main{
+    border: 1px solid orange;
+}
+.section_blue {
+    border: 1px solid blue;
+    background-color: blue;
+
+
+}
+.section_coral{
+    background-color: coral;
+    width: 500px;
+}
+.section_green{
+    background-color: green;
+    width: 500px;
+}
+.section_yelow{
+    background-color: yellow;
+    width: 500px;
+}
+footer{
+    border: 1px solid blue;
+    background-color: blue;
+
+
+}
